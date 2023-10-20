@@ -1,1 +1,5 @@
 # CS-250-SDLC
+To interpret the user needs, I’d start by engaging with stakeholders, including end-users, product owners, and business analysts, to gather and prioritize the requirements.
+The key benefit of user stories is that they are user-centric and easy to understand, ensuring that the development team and stakeholders have a clear and shared understanding of what the user needs.
+When approaching the development of programs using Agile methodology, there are several key principles and processes to keep in mind. The Agile methodology places a strong emphasis on collaboration, adaptability, and iterative development. Incorporating these Agile processes into the development work will help to build software that is more responsive to user needs, adaptable to change, and of higher quality. Adaptation to change would be an Agile method of high importance.
+Being a good team member isn't just about technical skills; it's also about soft skills and the ability to work harmoniously with others. A well-rounded team member in software development contributes not only to the technical aspects of a project but also to the overall team dynamic and project success.
